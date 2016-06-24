@@ -21,3 +21,4 @@ blinker
 html5lib
 itsdangerous
 six
+ForgeryPy
